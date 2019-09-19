@@ -1,0 +1,7 @@
+matplotlib==2.2.2
+torch==1.1.0
+seaborn==0.9.0
+numpy==1.14.2
+Pillow==6.1.0
+pyshp==2.1.0
+torchvision==0.4.0
