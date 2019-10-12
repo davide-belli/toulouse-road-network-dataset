@@ -23,9 +23,9 @@ import operator
 import copy
 
 from config import *
-from utils import line_intersection, euclidean_distance, generate_datapoint
-from utils import save_image_by_lines, save_image_by_nodes_edges, save_image_bfs, save_image, save_dataset
-from utils import Point, Bin, Square, Line
+from utils.utils import line_intersection, euclidean_distance, generate_datapoint
+from utils.utils import save_image, save_dataset
+from utils.utils import Point, Bin, Square, Line
 
 
 def check_split(cx, cy):

@@ -1,7 +1,7 @@
 """
 Constants and paths used in the methods for the dataset generation
 """
-from utils import *
+from utils.utils import *
 
 """
 Constants for bin extraction and dataset generation
