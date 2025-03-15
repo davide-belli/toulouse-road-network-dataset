@@ -5,7 +5,8 @@ Python code to generate the Toulouse Road Network dataset as introduced in <i>Im
 
 
 ## Overview
-This library contains a PyTorch Dataset Class to use the Toulouse Road Network datasetas presented in [[1]](#citation)(https://arxiv.org/abs/1910.14388), in addition to all the code developed to extract, preprocess, filter, augment and store the dataset.
+This library contains a PyTorch Dataset Class to use the Toulouse Road Network dataset as presented in [[1]](#citation)(https://arxiv.org/abs/1910.14388), in addition to all the code developed to extract, preprocess, filter, augment and store the dataset.  
+You can also find instructions to download a copy of this dataset in the [repo](https://github.com/davide-belli/generative-graph-transformer?tab=readme-ov-file#usage) containing the official implementation and experiments presented in our paper.  
 Find out more about this project in our [blog post](https://davide-belli.github.io/toulouse-road-network). 
 
 ## Dependencies
